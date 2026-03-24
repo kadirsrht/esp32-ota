@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3", 
+  "version": "1.0.4", 
   "firmware_url": "https://raw.githubusercontent.com/kadirsrht/esp32-ota/main/firmware/firmware_v1.0.4.bin", 
   "sha256": "dc4f90f70035dd5b22dcf41ac8ed55be15dfc2301c40548d53eb65f49e861e70" 
 }
